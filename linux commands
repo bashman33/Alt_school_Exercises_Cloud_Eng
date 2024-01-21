@@ -1,0 +1,3 @@
+10 Linux Commands
+1. Head :- This is used to display the first 10 lines of a file
+Example :- head bash
